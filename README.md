@@ -5,6 +5,8 @@
 
 ![image](https://github.com/user-attachments/assets/3c3d1ad1-fb4f-48f1-9fa5-01e136ae0b75)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tgvKu3SqpEU?si=jSgx-DCiho1fVvp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Executing the application:
 **It is recommended to run this .exe through Command Prompt / Powershell as Admin**
 1) The user is prompted to specify a path they want to load files from. The default path is the %username%\AppData\Roaming\.minecraft directory, as the initial objective of this program was to parse servers.dat and servers.dat_old files to detect disallowed server proxies.
