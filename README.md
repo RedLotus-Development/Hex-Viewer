@@ -5,7 +5,7 @@
 
 ![image](https://github.com/user-attachments/assets/3c3d1ad1-fb4f-48f1-9fa5-01e136ae0b75)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tgvKu3SqpEU?si=jSgx-DCiho1fVvp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=tgvKu3SqpEU
 
 Executing the application:
 **It is recommended to run this .exe through Command Prompt / Powershell as Admin**
